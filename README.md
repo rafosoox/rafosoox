@@ -1,6 +1,5 @@
 ## hii, all good?👋
-Boas vindas ao meu perfil
-Meu nome é Rafael Oliveira.
+Boas vindas ao meu perfil, meu nome é Rafael Oliveira.
 
 <!--
 **rafosoox/rafosoox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

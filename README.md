@@ -1,4 +1,4 @@
-## hii, all good?👋
+## oi, tudo bem?👋
 Boas vindas ao meu perfil, meu nome é Rafael Oliveira.
 
 <!--
